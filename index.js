@@ -3,5 +3,5 @@ for (let i = 0; i < 10; i++) {
     console.log("detected 5");
     continue;
   }
-  console.log(`value of i ${i}`);
+  console.log(`value of i = ${i}`);
 }
